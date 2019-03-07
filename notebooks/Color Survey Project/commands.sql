@@ -4,6 +4,8 @@ SELECT id
 FROM users
 WHERE ychrom = 0
 
+/* count the number of xy respondents */
+
 /* 
 1. look in the table of users 
 2. get the ids of the ones that are male
